@@ -1,4 +1,4 @@
-# Human-ressources-analytics
+# Human resources-analytics
 
 ## Possibles research questions...
 
