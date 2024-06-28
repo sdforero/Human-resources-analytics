@@ -29,12 +29,12 @@
 
 ### Visualization 
 |----|----|
-|![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20PositiveWordCloud.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/10.%20PunctuationLikes.png)
+|![Imagen1]([https://github.com/sdforero/YouTube/blob/main/1.%20PositiveWordCloud.png](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_Terminated0_bar.png)|![Imagen2]()
 |----|----|
-|![Imagen3](https://github.com/sdforero/YouTube/blob/main/2.%20NegativeWordCloud.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/3.%20FrequencyEmojis.png)
-|![Imagen5](https://github.com/sdforero/YouTube/blob/main/4.%20DistributionLikes.png)|![Imagen6](https://github.com/sdforero/YouTube/blob/main/5.%20LikesCategory.png)
-|![Imagen7](https://github.com/sdforero/YouTube/blob/main/6.%20RelationViewsLikes.png)|![Imagen8](https://github.com/sdforero/YouTube/blob/main/7.%20CorrelationViewsLikesDislikes.png)
-|![Imagen9](https://github.com/sdforero/YouTube/blob/main/8.%20ChannelVideos.png)|![Imagen10](https://github.com/sdforero/YouTube/blob/main/9.%20PunctuationViews.png)
+|![Imagen3]()|![Imagen4]()
+|![Imagen5]()|![Imagen6]()
+|![Imagen7]()|![Imagen8]()
+|![Imagen9]()|![Imagen10]()
 
 ## Next steps:
 
