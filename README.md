@@ -48,3 +48,4 @@
 11. Create new variables: Tenure: Calculate each employee's length of service. Performance Rating: Categorical variable based on 'PerfScoreID' to classify employee performance into categories like 'Low', 'Medium', and 'High'. Work-Life Balance Index: Develop an index based on variables such as hours worked, commute time, and other relevant metrics.
 12. Charts: Heatmap + temporal trends + Kaplan-Meier + bars + boxplot + cluster analysis.
 13. Prediction: Turnover Prediction Model + Performance Prediction Model.
+14. Prepare technical documentation and executive report (insights and conclusions).
