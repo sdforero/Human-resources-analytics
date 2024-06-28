@@ -34,7 +34,7 @@
 |![Imagen3](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_dateofhire_line.png)|![Imagen4](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_dateofhire_month_bar.png)
 |![Imagen5](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_dob_distribution_boxplot.png)|![Imagen6](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_recruitmentsource_actives_nonactives.png)
 |![Imagen7](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_salary_distribution_boxplot.png)|![Imagen8](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_duration_department_bar.png)
-|![Imagen9](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_turnoverrate_monthly_line.png)|![Imagen10]()
+|![Imagen9]()|![Imagen10]()
 
 ## Next steps:
 
