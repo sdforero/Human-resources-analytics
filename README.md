@@ -29,7 +29,7 @@
 
 ### Visualization 
 |----|----|
-|![Imagen1]([https://github.com/sdforero/YouTube/blob/main/1.%20PositiveWordCloud.png](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_Terminated0_bar.png)|![Imagen2]()
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_Terminated0_bar.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_TermReason_wordcloud.png)
 |----|----|
 |![Imagen3]()|![Imagen4]()
 |![Imagen5]()|![Imagen6]()
