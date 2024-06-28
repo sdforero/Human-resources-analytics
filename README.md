@@ -27,6 +27,15 @@
 ## Moving forward:
 4. Review and normalization of other variables.
 
+### Visualization 
+|----|----|
+|![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20PositiveWordCloud.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/10.%20PunctuationLikes.png)
+|----|----|
+|![Imagen3](https://github.com/sdforero/YouTube/blob/main/2.%20NegativeWordCloud.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/3.%20FrequencyEmojis.png)
+|![Imagen5](https://github.com/sdforero/YouTube/blob/main/4.%20DistributionLikes.png)|![Imagen6](https://github.com/sdforero/YouTube/blob/main/5.%20LikesCategory.png)
+|![Imagen7](https://github.com/sdforero/YouTube/blob/main/6.%20RelationViewsLikes.png)|![Imagen8](https://github.com/sdforero/YouTube/blob/main/7.%20CorrelationViewsLikesDislikes.png)
+|![Imagen9](https://github.com/sdforero/YouTube/blob/main/8.%20ChannelVideos.png)|![Imagen10](https://github.com/sdforero/YouTube/blob/main/9.%20PunctuationViews.png)
+
 ## Next steps:
 
 5. Analyze the distribution of 'GenderID' and 'MaritalStatusID', which may be useful for understanding the demographic composition of the workforce.
