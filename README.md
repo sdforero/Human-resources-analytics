@@ -21,13 +21,14 @@
 
 3. Data type analysis:
 - Variables in the dataframe are described.
+- 37 columns (30 / 37).
 - Data types for the 'LastName', 'Employee_Name', and 'EmpID' columns are visualized and adjusted.
 - Specific column analysis: EmpID: Statistical description and distribution visualization (boxplot) + MarriedID: Description, conversion to boolean type, and bar chart + MaritalStatusID: Description, conversion to integer type, and pie chart + GenderID: Description, conversion to integer type, and bar chart + EmpStatusID: Description, conversion to integer type, and bar chart + DeptID: Description, conversion to integer type, and bar chart + PerfScoreID: Description, conversion to integer type, and bar chart + FromDiversityJobFairID: Description, conversion to integer type, and bar chart + Salary: Statistical description, conversion to float type, boxplot, and distribution plots + Termd: Description, conversion to boolean type, and verification of current employees + PositionID: Description, conversion to integer type, and bar chart + Position: Description, conversion to string type, and duplicate data cleaning.
 
 ## Moving forward:
 4. Review and normalization of other variables.
 
-### Visualization 
+## Visualization 
 |----|----|
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_Terminated0_bar.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_TermReason_wordcloud.png)
 |----|----|
