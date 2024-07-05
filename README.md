@@ -4,7 +4,6 @@
 
 - Is there any relationship between who a person works for and their performance score?
 
-|----|----|
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png)
 |----|----|
   
