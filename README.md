@@ -32,7 +32,7 @@
 4. Review and normalization of other variables.
 
 ## Visualization 
-|----|----|
+
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_Terminated0_bar.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_TermReason_wordcloud.png)
 |----|----|
 |![Imagen3](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_dateofhire_line.png)|![Imagen4](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_dateofhire_month_bar.png)
