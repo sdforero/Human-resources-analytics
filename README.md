@@ -7,7 +7,6 @@
 |----|----|
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png)
 |----|----|
-|![Imagen3]()|![Imagen4]()
   
 - What is the overall diversity profile of the organization?
 - What are our best recruiting sources if we want to ensure a diverse organization?
