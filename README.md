@@ -3,6 +3,10 @@
 ## Possibles research questions...
 
 - Is there any relationship between who a person works for and their performance score?
+
+|----|----|
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2]([https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_TermReason_wordcloud.png](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png))
+  
 - What is the overall diversity profile of the organization?
 - What are our best recruiting sources if we want to ensure a diverse organization?
 - Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
