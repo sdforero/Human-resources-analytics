@@ -14,6 +14,15 @@ Perfomance equal to 2.
 - #### People in the Sales department have a better salary compared to the Production and IT Department, even though people in the Sales department perform worse overall.
 - Only 4% of the company's total employees are in band 2 with an average salary of $57,893.
 
+Performance equals 3.
+- The department with the highest percentage of employees in this band is Software with 9%, who have an average salary of $99,280.
+- The department with the second highest percentage of employees in this band is Production with 7%, who have an average salary of $60,137.
+- The department with the third highest percentage of employees in this band is Sales with 3%, which has an average salary of $72,992.
+- People in the Sotware department have a better salary compared to the Production and Sales department, even though people in the Software department have a worse performance as a whole.
+- 5% of the company's total employees are in band 3 with an average salary of $97,352.
+
+Translated with DeepL.com (free version)
+
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
 
 ### 2. What is the overall diversity profile of the organization?
