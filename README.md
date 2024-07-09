@@ -13,6 +13,8 @@
 - The departments with the best Performance Score also have a better Salary.
 
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
+- Women have an average Performance score of 4.0 while men have an average Performance score of 3.9.
+- Most of the outliers are in the Salary of women. Why?
 
 ### 2. What is the overall diversity profile of the organization?
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
