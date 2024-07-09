@@ -7,11 +7,11 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png)
 |----|----|
 
-- Perfomance equal to 2.
+Perfomance equal to 2.
 - The department with the highest percentage of employees in this band is Sales with 12%, who have an average salary of $62,314.
 - The department with the second highest percentage of employees in this band is Production with 3%, who have an average salary of $57,999.
-- The department with the third highest percentage of employees in this band is IT with 2%, which has an average salary of $53,366.
-- People in the Sales department have a better salary compared to the Production and IT Department, even though people in the Sales department perform worse overall.
+- The department with the third highest percentage of employees in this band is IT with 2%, which has an average salary of $53,366.####
+- #### People in the Sales department have a better salary compared to the Production and IT Department, even though people in the Sales department perform worse overall.
 - Only 4% of the company's total employees are in band 2 with an average salary of $57,893.
 
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
