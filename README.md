@@ -21,8 +21,6 @@ Performance equals 3.
 - People in the Sotware department have a better salary compared to the Production and Sales department, even though people in the Software department have a worse performance as a whole.
 - 5% of the company's total employees are in band 3 with an average salary of $97,352.
 
-Translated with DeepL.com (free version)
-
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
 
 ### 2. What is the overall diversity profile of the organization?
