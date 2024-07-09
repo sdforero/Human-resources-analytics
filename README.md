@@ -7,16 +7,10 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png)
 |----|----|
 
-Perfomance equal to 2.
-- People in the Sales department have a better salary ($62.314) compared to the Production ($57.999) and IT Department ($53.366), even though people in the Sales department perform worse overall (12%).
-- Only 4% of the company's total employees are in band 2 with an average salary of $57,893.
-
-Performance equals 3.
-- The department with the highest percentage of employees in this band is Software with 9%, who have an average salary of $99,280.
-- The department with the second highest percentage of employees in this band is Production with 7%, who have an average salary of $60,137.
-- The department with the third highest percentage of employees in this band is Sales with 3%, which has an average salary of $72,992.
-- People in the Sotware department have a better salary compared to the Production and Sales department, even though people in the Software department have a worse performance as a whole.
-- 5% of the company's total employees are in band 3 with an average salary of $97,352.
+- In general terms, it is perceived that as the Performance score variable increases, so does the Salary variable.
+- The Sales department has an average Performance score of 3.7 with an average Salary of $69,061. While the Production department has a Performance score of 3.9 and a Salary of $59,953. Why?
+- Excluding the Executive office, people in the Software Engineering and IT/IS departments earn approximately $23,000, $35,000 and $25,000 more than the Admin office, Production and Sales departments.
+- The departments with the best Performance Score also have a better Salary.
 
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
 
