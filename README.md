@@ -17,6 +17,11 @@
 - Most of the outliers are in the Salary of women. Why?
 
 ### 2. What is the overall diversity profile of the organization?
+
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_vs_RaceDesc.png)|![Imagen2]([https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Sex_vs_Department.png))
+|----|----|
+
+
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 ### 5. Are there areas of the company where pay is not equitable?
