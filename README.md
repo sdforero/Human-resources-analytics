@@ -7,10 +7,10 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Department.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Salary_vs_PerformanceScore_by_Sex.png)
 |----|----|
 
-- In general terms, it is perceived that as the Performance score variable increases, so does the Salary variable.
+- Yes, people in the IT/IS (4.06) and Software (4.09) Departments have on average better PerformanceScore than the Sales (3.7) and Production (3.9) Departments.
+- In general terms, the departments with the best Performance score also have a better Salary.
 - The Sales department has an average Performance score of 3.7 with an average Salary of $69,061. While the Production department has a Performance score of 3.9 and a Salary of $59,953. Why?
 - Excluding the Executive office, people in the Software Engineering and IT/IS departments earn approximately $23,000, $35,000 and $25,000 more than the Admin office, Production and Sales departments.
-- The departments with the best Performance Score also have a better Salary.
 
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
 - Women have an average Performance score of 4.0 while men have an average Performance score of 3.9.
