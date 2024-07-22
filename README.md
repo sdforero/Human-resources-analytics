@@ -21,6 +21,11 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Department_vs_RaceDesc.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Sex_vs_Department.png)
 |----|----|
 
+- 60% of the total number of employees are White within the RaceDesc variable. The department with the most White RaceDesc employees is Production (209).
+- 26% of the total number of employees are Black or African American within the RaceDesc variable. The department with the most Black or African American type RaceDesc employees is Production (5).
+- 9% of all employees are White within the RaceDesc variable. The department with the most Asian RaceDesc employees is Production (21).
+- The Department with the most RaceDesc is Production (6). The Department with the least RaceDesc is Admin Offices (2).
+
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 ### 5. Are there areas of the company where pay is not equitable?
