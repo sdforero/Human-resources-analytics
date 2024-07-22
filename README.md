@@ -25,6 +25,8 @@
 - 26% of the total number of employees are Black or African American within the RaceDesc variable. The department with the most Black or African American type RaceDesc employees is Production (5).
 - 9% of all employees are White within the RaceDesc variable. The department with the most Asian RaceDesc employees is Production (21).
 - The Department with the most RaceDesc is Production (6). The Department with the least RaceDesc is Admin Offices (2).
+- 57% of the payroll are Female and 43% are Male.
+- The Department with the least number of women is IT/IS with 44%. The department with the most women is Admin Offices with 67%.
 
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
