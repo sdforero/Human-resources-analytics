@@ -11,7 +11,6 @@
 - In general terms, the departments with the best Performance score also have a better Salary.
 - The Sales department has an average Performance score of 3.7 with an average Salary of $69,061. While the Production department has a Performance score of 3.9 and a Salary of $59,953. Why?
 - Excluding the Executive office, people in the Software Engineering and IT/IS departments earn approximately $23,000, $35,000 and $25,000 more than the Admin office, Production and Sales departments.
-
 - On average, men ($ 70.629) have a better salary than women ($ 67.786).
 - Women have an average Performance score of 4.0 while men have an average Performance score of 3.9.
 - Most of the outliers are in the Salary of women. Why?
