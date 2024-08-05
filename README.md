@@ -28,6 +28,10 @@
 - The Department with the least number of women is IT/IS with 44%. The department with the most women is Admin Offices with 67%.
 
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
+
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_racedesc_recruitmentsource_terminated_heatmap.png)|![Imagen2]()
+|----|----|
+
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 ### 5. Are there areas of the company where pay is not equitable?
 
