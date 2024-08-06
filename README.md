@@ -32,6 +32,11 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_racedesc_recruitmentsource_terminated_heatmap.png)|![Imagen2]()
 |----|----|
 
+- RecruitmentSource's top three sources are Indeed (27.9%), LinkedIn (24.4%) and GoogleSearch (15.7%).
+- The most frequent race in hiring is White, at 60.1%. These hires are mostly made through Indeed (54), LinkedIn (47) and GoogleSearch (35). Of the 187 people who were hired, 124 (39.8%) are no longer with the company, while 63 (20.2%) are still working there.
+- The second most frequent race in hiring is Black or African American, at 25.7%. These hires are mostly made through Diversity Job Fair (29), Indeed (17) and LinkedIn (16). Of the 80 people who were hired, 51 (16.4%) are no longer with the company, while 29 (9.3%) are still working there.
+- The third most frequent race in hires is Asian, with 9.3%. These hires are mostly made through Indeed (10), LinkedIn (8) and GoogleSearch (7). Of the 29 people who were hired, 20 (6.4%) are no longer with the company, while 9 (2.8%) are still working there.
+
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 ### 5. Are there areas of the company where pay is not equitable?
 
