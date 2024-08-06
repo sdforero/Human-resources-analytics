@@ -29,7 +29,7 @@
 
 ### 3. What are our best recruiting sources if we want to ensure a diverse organization?
 
-|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_racedesc_recruitmentsource_terminated_heatmap.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Position_RecruitmentSource_bar.png)
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_racedesc_recruitmentsource_terminated_heatmap.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Variable_Positions_RecruitmentSource_bar.png)
 |----|----|
 
 - RecruitmentSource's top three sources are Indeed (27.9%), LinkedIn (24.4%) and GoogleSearch (15.7%).
