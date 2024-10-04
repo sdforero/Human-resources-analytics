@@ -48,7 +48,8 @@
 - 60 TN. The model predicted that 60 employees would not leave the company, and indeed they did not.
 - 6 FP. The model predicted that 6 employees would not leave the company, but in reality, they did.
 - 22 FN. The model predicted that 22 employees would leave the company, but in reality, they did not.
-- 6 TP. The model correctly predicted that 6 employees would leave the company."
+- 6 TP. The model correctly predicted that 6 employees would leave the company.
+- The features SpecialProjectsCount, DeptID, Absences, DaysLateLast30, and MaritalStatusID have a greater impact on predicting the probability of employee resignation.
 
 ### 5. Are there areas of the company where pay is not equitable?
 
