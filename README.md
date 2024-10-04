@@ -38,6 +38,10 @@
 - The third most frequent race in hires is Asian, with 9.3%. These hires are mostly made through Indeed (10), LinkedIn (8) and GoogleSearch (7). Of the 29 people who were hired, 20 (6.4%) are no longer with the company, while 9 (2.8%) are still working there.
 
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
+
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_model_evaluation.png)|![Imagen2]()
+|----|----|
+
 ### 5. Are there areas of the company where pay is not equitable?
 
 ## For now:
