@@ -39,7 +39,7 @@
 
 ### 4. Can we predict who is going to terminate and who isn't? What level of accuracy can we achieve on this?
 
-|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_model_evaluation.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_Features_evaluation.png)
+|![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_model_evaluation.png)|![Imagen2]()
 |----|----|
 
 ### 5. Are there areas of the company where pay is not equitable?
