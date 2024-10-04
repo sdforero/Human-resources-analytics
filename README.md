@@ -44,7 +44,7 @@
 |![Imagen1](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_model_evaluation.png)|![Imagen2](https://github.com/sdforero/Human-resources-analytics/blob/main/Logistic_regression_Features_evaluation.png)
 |----|----|
 
-- 70.21% accuracy means that the model correctly classifies 70.21% of the instances in the test set.
+- The model correctly classifies 70.21% of the instances in the test set.
 - 60 TN. The model predicted that 60 employees would not leave the company, and indeed they did not.
 - 6 FP. The model predicted that 6 employees would not leave the company, but in reality, they did.
 - 22 FN. The model predicted that 22 employees would leave the company, but in reality, they did not.
